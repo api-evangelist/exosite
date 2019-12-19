@@ -1,0 +1,65 @@
+{
+    "name": "Exosite",
+    "description": "Exosite is a leading Internet of Things (IoT) platform that makes it easy to build connected products, solutions, and businesses. Get started for free.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1006-exosite.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "cloud",
+        "cloud storage platform",
+        "have api",
+        "internet of things",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/exosite\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Exosite",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1006-exosite.jpg",
+            "humanURL": "http:\/\/exosite.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/exosite-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/exosite.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/exosite"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/exosite"
+        },
+        {
+            "type": "Email",
+            "url": "info@exosite.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/exosite"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/exosite"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/exosite.com\/"
+        }
+    ]
+}
